@@ -1,0 +1,17 @@
+{
+  "name": "Eat-Da-Sushi",
+  "version": "1.0.0",
+  "description": "This activity is a compatibility-based \"FriendFinder\" application -- basically a dating app. This full-stack site will take in results from your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match. This application will use Express to handle routing and is deployed to Heroku.",
+  "main": "index.js",
+  "dependencies": {
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Katherine J. Bell",
+  "license": "MIT"
+}
