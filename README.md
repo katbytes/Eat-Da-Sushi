@@ -1,4 +1,4 @@
-# &#35; Eat Da Sushi!&nbsp;&nbsp;<img src="<img src="https://img.icons8.com/color/48/000000/sushi.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/sashimi.png">
+# &#35; Eat Da Sushi!&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/sushi.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/sashimi.png">
 This activity is a compatibility-based "FriendFinder" application -- basically a dating app. This full-stack site will take in results from your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match. This application will use Express to handle routing and is deployed to Heroku.
 
 ## Getting Started:
