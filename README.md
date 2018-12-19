@@ -69,7 +69,7 @@ This activity is a compatibility-based "FriendFinder" application -- basically a
     └── layouts
         └── main.handlebars
 ```
-* [Detailed Instructions](https://katbytes.github.io/Eat-Da-Sushi/public/assets/misc/homework_instructions.md)
+* [Detailed Instructions](https://katbytes.github.io/Eat-Da-Sushi/public/assets/misc/homework_instructions)
 
 ## About the Author:
 [Katherine J. Bell](https://github.com/katbytes)
