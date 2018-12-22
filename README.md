@@ -3,7 +3,6 @@ This activity is a compatibility-based "FriendFinder" application -- basically a
 
 ## Getting Started:
 * [https://katbytes-eat-da-sushi.herokuapp.com/](https://katbytes-eat-da-sushi.herokuapp.com/sushis)(`Heroku`)
-* https://github.com/katbytes/Eat-Da-Sushi/ (`GitHub`)
 
 ## In Action:
 <img src="https://raw.githubusercontent.com/katbytes/Eat-Da-Sushi/master/public/assets/imgs/sushi.gif" alt="demo">
