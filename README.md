@@ -13,14 +13,16 @@ This activity is a compatibility-based "FriendFinder" application -- basically a
 * Visual Studio Code - IDE
 * Node.js
 * ORM - Object-Relational Mapping
-* MySQL - Relational Database Management System
+* MySQL (Workbench) - Relational Database Management System
 * Express npm Package - https://expressjs.com/
 * Express-Handlebars npm Package - https://www.npmjs.com/package/express-handlebars
 * Nodemon npm Package - https://www.npmjs.com/package/nodemon
+* Dotenv npm package - https://www.npmjs.com/package/dotenv
 * jQuery - JavaScript CDN
 * AJAX - Asynchronous JavaScript And XML
 * JSON - JavaScript Object Notation
 * Heroku -  Cloud Platform Programming Language Support
+* JawsDB MySQL - MySQL Database for Heroku
 * Bootstrap - HTML, CSS, and JS Framework
 
 ### Basic Architecture:
