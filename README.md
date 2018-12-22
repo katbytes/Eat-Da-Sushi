@@ -6,7 +6,7 @@ This activity is a compatibility-based "FriendFinder" application -- basically a
 * https://github.com/katbytes/Eat-Da-Sushi/ (`GitHub`)
 
 ## In Action:
-![Screenshot](https://github.com/katbytes/Eat-Da-Sushi/app/assets/imgs/sushi.gif)
+![Screenshot](https://github.com/katbytes/Eat-Da-Sushi/public/assets/imgs/sushi.gif)
 `Devouring sushi rolls...`&#8673;
 
 ## Technologies Used:
