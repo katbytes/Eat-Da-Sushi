@@ -1,5 +1,5 @@
 # &#35; Eat Da Sushi!&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/sushi.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/sashimi.png">
-This project is a sushi logger with MySQL, Node, Express, Handlebars and ORM (Object-Relational Mapping). This project utilizes the MVC (Model–view–controlle) design pattern. Node and MySQL to query and route data and Handlebars to generate the HTML. This application will use Express to handle routing and is deployed to Heroku via JawsDB.
+This project is a sushi logger with MySQL, Node, Express, Handlebars and ORM (Object-Relational Mapping). This project utilizes the MVC (Model–view–controlle) design pattern. Node and MySQL to query and route data and Handlebars to generate the HTML. This application is deployed to Heroku via JawsDB.
 
 ## Getting Started:
 * [https://katbytes-eat-da-sushi.herokuapp.com/](https://katbytes-eat-da-sushi.herokuapp.com/sushis) (`Heroku`)
