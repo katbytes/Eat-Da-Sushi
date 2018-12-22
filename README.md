@@ -13,9 +13,9 @@ This activity is a compatibility-based "FriendFinder" application -- basically a
 * Node.js
 * ORM - Object-Relational Mapping
 * MySQL (Workbench) - Relational Database Management System
-* Express npm Package - https://expressjs.com/
-* Express-Handlebars npm Package - https://www.npmjs.com/package/express-handlebars
-* Nodemon npm Package - https://www.npmjs.com/package/nodemon
+* Express npm package - https://expressjs.com/
+* Express-Handlebars npm package - https://www.npmjs.com/package/express-handlebars
+* Nodemon npm package - https://www.npmjs.com/package/nodemon
 * Dotenv npm package - https://www.npmjs.com/package/dotenv
 * jQuery - JavaScript CDN
 * AJAX - Asynchronous JavaScript And XML
