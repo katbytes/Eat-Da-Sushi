@@ -6,7 +6,7 @@ This project is a sushi logger with MySQL, Node.js, Express, Handlebars (npm pac
 
 ## In Action:
 <img src="https://raw.githubusercontent.com/katbytes/Eat-Da-Sushi/master/public/assets/imgs/sushi.gif" alt="demo">
-`Devouring sushi rolls` &#8673;
+`Devouring sushi rolls`&#8673;
 
 ## Technologies Used:
 * Visual Studio Code - IDE
