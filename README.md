@@ -5,34 +5,23 @@ This activity is a compatibility-based "FriendFinder" application -- basically a
 * https://katbytes-eat-da-sushi.herokuapp.com/ (`Heroku`)
 * https://github.com/katbytes/Eat-Da-Sushi/ (`GitHub`)
 
-## Screenshots:
-![Screenshot](https://github.com/katbytes/Eat-Da-Sushi/app/assets/imgs/screen_1.png)
-`Index Page`&#8673;
-
-![Screen shot 2](https://github.com/katbytes/Eat-Da-Sushi/app/assets/imgs/screen_2.png)
-`Survey Top`&#8673;
-
-![Screenshot 3](https://github.com/katbytes/Eat-Da-Sushi/app/assets/imgs/screen_3.png)
-`Survey Bottom`&#8673;
-
-![Screenshot 4](https://github.com/katbytes/Eat-Da-Sushi/app/assets/imgs/screen_4.png)
-`Friend Result`&#8673;
+## In Action:
+![Screenshot](https://github.com/katbytes/Eat-Da-Sushi/app/assets/imgs/sushi.gif)
+`Devouring sushi rolls...`&#8673;
 
 ## Technologies Used:
 * Visual Studio Code - IDE
 * Node.js
 * ORM - Object-Relational Mapping
 * MySQL - Relational Database Management System
-* express NPM Package - https://www.npmjs.com/package/express
-* path NPM Package - https://www.npmjs.com/package/path
-* nodemon NPM Package - https://www.npmjs.com/package/nodemon
+* Express npm Package - https://expressjs.com/
+* Express-Handlebars npm Package - https://www.npmjs.com/package/express-handlebars
+* Nodemon npm Package - https://www.npmjs.com/package/nodemon
 * jQuery - JavaScript CDN
 * AJAX - Asynchronous JavaScript And XML
 * JSON - JavaScript Object Notation
 * Heroku -  Cloud Platform Programming Language Support
 * Bootstrap - HTML, CSS, and JS Framework
-* Materialize - CSS Framework
-* Font Awesome - Font & Icon Toolkit
 
 ### Basic Architecture:
 ```
