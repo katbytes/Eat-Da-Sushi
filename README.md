@@ -13,7 +13,6 @@ This project is a sushi logger with MySQL, Node.js, Express, Handlebars (npm pac
 * ORM - Object-Relational Mapping
 * MVC (Model-View-Controller) - Software Architecture Pattern
 * MySQL (Workbench) - Relational Database Management System
-* Express npm package - https://expressjs.com/
 * Express-Handlebars npm package - https://www.npmjs.com/package/express-handlebars
 * Nodemon npm package - https://www.npmjs.com/package/nodemon
 * Dotenv npm package - https://www.npmjs.com/package/dotenv
